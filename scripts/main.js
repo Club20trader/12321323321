@@ -292,7 +292,7 @@ const I18N = {
         md_title: "AI model",
         md_v1: "NeuralEdge V1",
         md_v2: "NeuralEdge V2",
-        md_vip_note: "VIP",
+        md_vip_note: "",
 
         vip_sheet_title: "Get VIP access",
         vip_close_aria: "Close",
@@ -383,8 +383,8 @@ const I18N = {
         faq_title: "FAQ",
         faq_q1: "Что такое AI сигнал?",
         faq_a1: "Торговый сигнал, сгенерированный ИИ на основе анализа рынка.",
-        faq_q2: "Зачем нужен VIP статус?",
-        faq_a2: "VIP ускоряет анализ и повышает качество сигналов, открывая доп. инструменты.",
+        faq_q2: "",
+        faq_a2: "",
         faq_q3: "Что такое время экспирации?",
         faq_a3: "Момент, когда сделка закрывается автоматически. Выберите подходящее время.",
         faq_q4: "Чем отличаются торговые модели?",
@@ -408,7 +408,7 @@ const I18N = {
         md_title: "AI модель",
         md_v1: "NeuralEdge V1",
         md_v2: "NeuralEdge V2",
-        md_vip_note: "VIP",
+        md_vip_note: "",
 
         vip_sheet_title: "Получи доступ к VIP",
         vip_close_aria: "Закрыть",
